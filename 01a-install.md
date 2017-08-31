@@ -54,8 +54,8 @@ Did you install Python 2 or 3? Why?
 
 How can you check the version of Python installed if you happen to be on an unfamiliar computer?
 
->> The version is 3.6.1. 
-'''python 
+>> The version is 3.6.1.   
+```python 
  import sys
  print(sys.version)
  ```python
