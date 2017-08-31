@@ -48,13 +48,17 @@ cross-platform.
 
 Did you install Python 2 or 3? Why?  
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> I installed Python 3. Wanted to update the latest version.
 
 ### Q2. Which Python Version Installed   
 
 How can you check the version of Python installed if you happen to be on an unfamiliar computer?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> The version is 3.6.1. 
+'''python 
+ import sys
+ print(sys.version)
+ ```python
 
  
 
