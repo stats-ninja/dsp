@@ -55,10 +55,10 @@ What do the following commands do:
 
  Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
-> > -d :Displays only directories.
--u : Displays files by the file access time.
--R :Displays subdirectories as well.
--p :Displays directories with /
+> > -d :Displays only directories.  
+-u : Displays files by the file access time.  
+-R :Displays subdirectories as well.  
+-p :Displays directories with /  
 -q :Displays all nonprinting characters as ?
 ---
 
