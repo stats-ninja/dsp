@@ -19,7 +19,14 @@ Here's a list of items with which you should be familiar:
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > * show current working directory path :pwd
+* creating a directory : mkdir
+* deleting a directory : rm -r
+* creating a file using `touch` command : touch trial.txt
+* deleting a file rm trial.txt
+* renaming a file mv file1.txt file2.txt (renames file1 as file2)
+* listing hidden files ls -a
+* copying a file from one directory to another cp path1/file1.txt path2/
 
 ---
 
@@ -34,16 +41,25 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > `ls`  : listing of files and folders in the current working directory
+`ls -a`  : showing hidden files as well 
+`ls -l`  : shows the long format of the file with 7 variables like access rights etc
+`ls -lh`  : 
+`ls -lah`  :
+`ls -t`  : shows the listing of files and directories sorted by last modified
+`ls -Glp` :
 
 ---
 
 ### Q3.  More List Files in Unix  
 
-Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
+ Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
-
+> > -d :Displays only directories.
+-u : Displays files by the file access time.
+-R :Displays subdirectories as well.
+-p :Displays directories with /
+-q :Displays all nonprinting characters as ?
 ---
 
 ### Q4.  Xargs   
