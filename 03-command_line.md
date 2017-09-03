@@ -1,4 +1,4 @@
-# Learn command line
+# Learn command lin
 
 Please follow and complete the free online [Command Line Crash Course
 tutorial](https://web.archive.org/web/20160708171659/http://cli.learncodethehardway.org/book/) or [Codecademy's Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line). These are helpful tutorials. Each "chapter" focuses on a command. Type the commands you see in the _Do This_ section, and read the _You Learned This_ section. Move on to the next chapter. You should be able to go through these in a couple of hours.
@@ -19,7 +19,7 @@ Here's a list of items with which you should be familiar:
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
-> > * show current working directory path :pwd 
+* show current working directory path :pwd 
 * creating a directory : mkdir  
 * deleting a directory : rm -r  
 * creating a file using `touch` command : touch trial.txt  
@@ -41,12 +41,12 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
-> > `ls`  : listing of files and folders in the current working directory
-`ls -a`  : showing hidden files as well 
-`ls -l`  : shows the long format of the file with 7 variables like access rights etc
+`ls`  : listing of files and folders in the current working directory  
+`ls -a`  : showing hidden files as well  
+`ls -l`  : shows the long format of the file with 7 variables like access rights etc  
 `ls -lh`  : 
 `ls -lah`  :
-`ls -t`  : shows the listing of files and directories sorted by last modified
+`ls -t`  : shows the listing of files and directories sorted by last modified  
 `ls -Glp` :
 
 ---
