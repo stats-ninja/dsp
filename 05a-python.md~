@@ -12,20 +12,15 @@ For quick and easy interactive practice with Python, many people enjoy [Codecade
 
 How are Python lists and tuples similar and different? Which will work as keys in dictionaries? Why?
 
->> Similarities:   Both lists and Tuples are iterable which can be used to access every element in it.  
-The operators in, +,*, len, max and min work on both tuple and lists as none of them modify the elements in it.    
- 
+>> REPLACE THIS TEXT WITH YOUR RESPONSE
 
-Differences: Tuples are immutable (vales are not changeable) which lists are
-
-The keys in dictionaries  need to be hashable and immutable. Hence lists cannot be used as keys. Tuples  work as keys in directories sometimes if they are hashable. 
 ---
 
 ### Q2. Lists &amp; Sets
 
 How are Python lists and sets similar and different? Give examples of using both. How does performance compare between lists and sets for finding an element. Why?
 
->> 
+>> REPLACE THIS TEXT WITH YOUR RESPONSE
 
 ---
 
