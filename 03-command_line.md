@@ -44,15 +44,16 @@ What do the following commands do:
 `ls`  : listing of files and folders in the current working directory  
 `ls -a`  : showing hidden files as well  
 `ls -l`  : shows the long format of the file with 7 variables like access rights etc  
-`ls -lh`  : 
-`ls -lah`  :
-`ls -t`  : shows the listing of files and directories sorted by last modified  
-`ls -Glp` :
+`ls -lh`  : when  -l and -h options are used together use unit suffixes: Byte, Kilobyte,Megabyte, Gigabyte, Terabyte and Petabyte in order to reduce the number of digits to three or less using base 2 for sizes. We will suffixes like B,KB, MB to describe the file size.  
+`ls -lah`  : shows all the files including hidden files in long format with file size described in suffix as B,MB,KB etc.   
+`ls -t`  : shows the listing of files and directories sorted by last modified. 
+`ls -Glp` : - G Enable colorized output.  This option is equivalent to definining CLICOLOR in the en vironment.
+             -p:Write a slash (`/') after each filename if that file is a directory.   
 
 ---
 
 ### Q3.  More List Files in Unix  
-
+  
  Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
 > > -d :Displays only directories.  
@@ -70,3 +71,4 @@ What does `xargs` do? Give an example of how to use it.
 
  
 
+ 
