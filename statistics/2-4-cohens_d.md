@@ -11,4 +11,5 @@ def CohenEffectSize(group1, group2):
     pooled_var = (n1 * var1 + n2 * var2) / (n1 + n2)
     d = diff / math.sqrt(pooled_var)
     return d
+    
     ```
